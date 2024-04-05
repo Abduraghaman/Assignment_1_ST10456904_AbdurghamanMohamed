@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheHistoryApp</string>
+    <string name="the_history_app">The History App</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="generate_history">Generate History</string>
+    <string name="clear">Clear!</string>
+    <string name="textview">TextView</string>
+</resources>
